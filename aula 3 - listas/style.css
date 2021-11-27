@@ -1,3 +1,11 @@
 img {
     width: 10%;
 }
+
+ul a {
+    color: rgb(13, 163, 26);
+}
+
+a {
+    color: black;
+}
