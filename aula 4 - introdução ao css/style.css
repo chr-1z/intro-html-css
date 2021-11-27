@@ -5,6 +5,9 @@ img {
 ul a {
     color: rgb(13, 163, 26);
 }
+body {
+    background: rgb(95, 85, 85);
+}
 
 a {
     color: black;
@@ -17,4 +20,11 @@ a {
 .post_title {
     font-size: 16px;
     font-style: italic;
+}
+
+.post {
+    background: #fff;
+    padding: 10px;
+    border: 3px solid black;
+    margin: 10px;
 }
