@@ -1,3 +1,10 @@
+body {
+    background: #f7f7f7;
+    font-family: Verdana;
+    max-width: 900px;
+    margin: auto;
+}
+
 img {
     width: 10%;
 }
@@ -9,10 +16,6 @@ img {
 
 ul a {
     color: rgb(13, 163, 26);
-}
-body {
-    background: #f7f7f7;
-    font-family: Verdana;
 }
 
 a {
@@ -50,10 +53,12 @@ a {
     margin: 0;
     margin-bottom: 15px;
     text-transform: capitalize;
+    text-align: center;
 }
 
 .post_image {
     margin-bottom: 15px;
+    width: 100px;
 }
 
 .contacts_list {
